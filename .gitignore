@@ -1,10 +1,10 @@
 # other
-.png
-.pdf
-.xslx
-.jpg
-.bmp
-.txt
+*.png
+*.pdf
+*.xslx
+*.jpg
+*.bmp
+*.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
